@@ -19,6 +19,13 @@ chemistry. This includes but is not limited to:
 
 ChemCuration 2019 will take place in November or December this year. 
 
+## Organizing Committe
+
+(in flux)
+
+* Egon Willighagen, [0000-0001-7542-0286](https://orcid.org/0000-0001-7542-0286), Maastricht University (ROR:02jz4aj89)
+* Emma Schymanski, [0000-0001-6868-8145](https://orcid.org/0000-0001-6868-8145), University of Luxembourg (ROR:036x5ad56)
+
 ## Abstract Submission
 
 Abstract submission is being worked out, but basically will be submitting a 
