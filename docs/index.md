@@ -44,5 +44,5 @@ small changes.
 
 ## References
 
-1. Ekins S, Perlstein EO. Ten simple rules of live tweeting at scientific conferences. PLoS computational biology. 2014 Aug;10(8):e1003789+. 
+1. Ekins S, Perlstein EO. Ten simple rules of live tweeting at scientific conferences. PLoS computational biology. 2014 Aug;10(8):e1003789+. doi:[10.1371/journal.pcbi.1003789](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
 
