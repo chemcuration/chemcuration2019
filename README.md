@@ -1,7 +1,9 @@
 # ChemCuration 2019
 
 This repository is set up to organize the ChemCuration 2019 event and to
-act as repository to the sources of the website (`docs/` folder).
+act as repository to the sources of the website (`docs/` folder). See this
+[front webpage](https://chemcuration.github.io/chemcuration2019/) with
+the underlying Markdown in that [docs folder](https://github.com/chemcuration/chemcuration2019/tree/master/docs).
 
 ## Organizers 
 
