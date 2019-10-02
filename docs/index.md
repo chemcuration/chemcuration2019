@@ -17,7 +17,8 @@ chemistry. This includes but is not limited to:
 
 ## Date and Venue
 
-ChemCuration 2019 will take place in November or December this year. 
+ChemCuration 2019 will take place in on Tuesday December 3 this year. Posters will be posted and
+discussed online. The venue is Twitter [1].
 
 ## Organizing Committe
 
@@ -40,3 +41,8 @@ request via GitHub, or by email (address will follow).
 
 A review board will look at the abstract and approve it, reject it, or ask for
 small changes.
+
+## References
+
+1. Ekins S, Perlstein EO. Ten simple rules of live tweeting at scientific conferences. PLoS computational biology. 2014 Aug;10(8):e1003789+. 
+
