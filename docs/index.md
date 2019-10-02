@@ -1,6 +1,7 @@
 # ChemCuration 2019
 
-ChemCuration is a a one day, online-only conference around data curation and curated data in the
+ChemCuration ([#chemcur2019](https://twitter.com/hashtag/chemcur2019))
+is a a one day, online-only conference around data curation and curated data in the
 domain of chemistry. Inspired by BioCuration and by other online conferences, this year will mark
 the first edition of a Twitter-based online poster conference. During the day, you will tweet your
 poster with the meeting hashtag and respond to questions about the poster in the 24 hours after
@@ -21,7 +22,10 @@ ChemCuration 2019 will take place in November or December this year.
 ## Abstract Submission
 
 Abstract submission is being worked out, but basically will be submitting a 
-[Markdown]() file roughly reflecting one A4 page max. It may include hyperlinks
+[Markdown](https://en.wikipedia.org/wiki/Markdown) file roughly reflecting one A4 page max (
+[template](https://github.com/chemcuration/chemcuration2019/blob/master/abstracts/template.md),
+[template source](https://raw.githubusercontent.com/chemcuration/chemcuration2019/master/abstracts/template.md)).
+It may include hyperlinks
 and graphics.
 
 The submission will take place via a pull request, which may be a formal pull
