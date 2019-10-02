@@ -1,7 +1,7 @@
 # Title of the poster: Our chemcuration contributions this year
 
-First Author, Twitter account, ORCID (recommended), affiliation ROR, affiliation full text
-Second Author, Twitter account, .., affiliation full text
+* First Author, Twitter account, ORCID (recommended), affiliation ROR, affiliation full text
+* Second Author, Twitter account, .., affiliation full text
 
 This is the main abstract text. It can have graphics and can have a literature list.
 Your abstract will be listed on the ChemCuration 2019 website, along with your
