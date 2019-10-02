@@ -6,3 +6,4 @@ act as repository to the sources of the website (`docs/` folder).
 ## Organizers 
 
 * Egon Willighagen, [0000-0001-7542-0286](https://orcid.org/0000-0001-7542-0286), Maastricht University (ROR:02jz4aj89)
+* Emma Schymanski, [0000-0001-6868-8145](https://orcid.org/0000-0001-6868-8145), University of Luxembourg (ROR:036x5ad56)
