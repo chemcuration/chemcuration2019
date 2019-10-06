@@ -6,7 +6,7 @@ domain of chemistry. Inspired by BioCuration and by other online conferences, th
 the first edition of a Twitter-based online poster conference. During the day, you will tweet your
 poster with the meeting hashtag and respond to questions about the poster in the 24 hours after
 your tweet. The poster must be available in an online repository (e.g. Zenodo or Figshare)
-under the CC-BY or CC-BY-SA license.
+under the CCZero, CC-BY or CC-BY-SA license.
 
 The meeting scope: anything around data curation and curated data of *open science* data in
 chemistry. This includes but is not limited to:
