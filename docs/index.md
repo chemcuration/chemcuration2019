@@ -32,7 +32,16 @@ In progress.
 
 ## Abstract Submission
 
-In progress.
+### How do I participate in ChemCuration?
+You can participate in this online poster conference by presenting your poster on Twitter during the conference
+day. You do this by first archiving your poster via [Figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/),
+with an open license (e.g. CCZero or CC-BY). Then, during the day you tweet an image of (part of)
+your digital poster with the [#chemcur2019](https://twitter.com/hashtag/chemcur2019) hashtag, a short summary, and a
+link to your online poster with its DOI. The archived poster should be a regular A0 poster (WxH = 841 x 1189 mm or
+33.1 x 46.8 in)
+
+### Do I need to register?
+Registration is not obligatory to participate. However, if you would like to be eligible for a poster prize, then registration is required (registration form: https://github.com/chemcuration/chemcuration2019/issues/new/choose).
 
 ## References
 
