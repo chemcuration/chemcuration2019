@@ -18,7 +18,7 @@ chemistry. This includes but is not limited to:
 ## Date and Venue
 
 ChemCuration 2019 will take place in on Tuesday December 3 this year. Posters will be posted and
-discussed online. The venue is Twitter [1].
+discussed online. The venue is Twitter&nbsp;[1].
 
 ## Conference Organisers
 
@@ -28,7 +28,7 @@ discussed online. The venue is Twitter [1].
 
 ### Scientific Committee
 
-In progress.
+* Antony Williams, [@ChemConnector](https://twitter.com/ChemConnector), [0000-0002-2668-4821](https://orcid.org/0000-0002-2668-4821)
 
 ## Abstract Submission
 
@@ -41,7 +41,11 @@ link to your online poster with its DOI. The archived poster should be a regular
 33.1 x 46.8 in)
 
 ### Do I need to register?
-Registration is not obligatory to participate. However, if you would like to be eligible for a poster prize, then registration is required (registration form: https://github.com/chemcuration/chemcuration2019/issues/new/choose).
+Registration is not obligatory to participate. However, if you would like to be eligible for a poster prize, then 
+registration before November 30, 23:59 GMT is required (registration form:
+[https://github.com/chemcuration/chemcuration2019/issues/new/choose](https://github.com/chemcuration/chemcuration2019/issues/new/choose)). Posters tweeted after this deadline are not
+eligible for a poster prize.
+
 
 ## References
 
