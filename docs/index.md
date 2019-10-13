@@ -42,8 +42,7 @@ link to your online poster with its DOI. The archived poster should be a regular
 
 ### Do I need to register?
 Registration is not obligatory to participate. However, if you would like to be eligible for a poster prize, then 
-registration before November 30, 23:59 GMT is required (registration form:
-[https://github.com/chemcuration/chemcuration2019/issues/new/choose](https://github.com/chemcuration/chemcuration2019/issues/new/choose)). Posters tweeted after this deadline are not
+registration before November 30, 23:59 GMT is required ([registration form](https://github.com/chemcuration/chemcuration2019/issues/new/choose)). Posters tweeted after this deadline are not
 eligible for a poster prize.
 
 
