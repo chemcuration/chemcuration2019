@@ -13,4 +13,4 @@ the underlying Markdown in that [docs folder](https://github.com/chemcuration/ch
 
 ### Scientific Committee
 
-In progress.
+* Antony Williams, [@ChemConnector](https://twitter.com/ChemConnector), [0000-0002-2668-4821](https://orcid.org/0000-0002-2668-4821)
