@@ -28,7 +28,7 @@ discussed online. The venue is Twitter&nbsp;[1].
 
 ### Scientific Committee
 
-* Antony Williams, [@ChemConnector](https://twitter.com/ChemConnector), [0000-0002-2668-4821](https://orcid.org/0000-0002-2668-4821), Environmental Protection Agency (ROR:[03tns0030](https://ror.org/03tns0030))
+* Antony Williams, [@ChemConnector](https://twitter.com/ChemConnector), [0000-0002-2668-4821](https://orcid.org/0000-0002-2668-4821), US Environmental Protection Agency (ROR:[03tns0030](https://ror.org/03tns0030))
 * Steffen Neumann, [@sneumannoffice](https://twitter.com/sneumannoffice), [0000-0002-7899-7192](http://orcid.org/0000-0002-7899-7192), Leibniz Institute of Plant Biochemistry (ROR:[01mzk5576](https://ror.org/01mzk5576))
 * Christopher Southan, [@cdsouthan](https://twitter.com/cdsouthan), [0000-0001-9580-0446](http://orcid.org/0000-0001-9580-0446), TW2Informatics
 
