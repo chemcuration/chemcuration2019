@@ -27,6 +27,7 @@ discussed online. The venue is Twitter&nbsp;[1].
 * [Peter Murray-Rust](https://twitter.com/petermurrayrust): CEVOpen: Can machines curate the Open phytochemistry literature. [Poster](https://doi.org/10.5281/zenodo.3558784), [Discussion](https://twitter.com/petermurrayrust/status/1201790037802831872)
 * [Charles N. Lowe](https://twitter.com/Charles98762993): Development of a Water Solubility Dataset to Establish Best Practices for Curating New Datasets for QSAR Modeling. [Poster](https://doi.org/10.23645/epacomptox.11303174.v1)
 * [Karel Berka](https://twitter.com/caco3cz): MolMeDB: Molecules on Membranes Database. [Poster](https://doi.org/10.5281/zenodo.3560328), [Discussion](https://twitter.com/caco3cz/status/1201638546945302528)
+* [Saulius Gražulis](https://twitter.com/sgrazulis): Crystallography Open Database – data curation experiences. [Poster](https://doi.org/10.5281/zenodo.3560692), [Discussion](https://twitter.com/sgrazulis/status/1201837622567546882)
 
 This is also available on Wikidata/Scholia as an [interactive proceedings page](https://tools.wmflabs.org/scholia/venue/Q77190799).
 
