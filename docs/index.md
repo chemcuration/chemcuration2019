@@ -32,20 +32,13 @@ discussed online. The venue is Twitter&nbsp;[1].
 * Steffen Neumann, [@sneumannoffice](https://twitter.com/sneumannoffice), [0000-0002-7899-7192](http://orcid.org/0000-0002-7899-7192), Leibniz Institute of Plant Biochemistry (ROR:[01mzk5576](https://ror.org/01mzk5576))
 * Christopher Southan, [@cdsouthan](https://twitter.com/cdsouthan), [0000-0001-9580-0446](http://orcid.org/0000-0001-9580-0446), TW2Informatics
 
-## Abstract Submission
+## Posters
 
-### How do I participate in ChemCuration?
-You can participate in this online poster conference by presenting your poster on Twitter during the conference
-day. You do this by first archiving your poster via [Figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/),
-with an open license (e.g. CCZero or CC-BY). Then, during the day you tweet an image of (part of)
-your digital poster with the [#chemcur2019](https://twitter.com/hashtag/chemcur2019) hashtag, a short summary, and a
-link to your online poster with its DOI. The archived poster should be a regular A0 poster (WxH = 841 x 1189 mm or
-33.1 x 46.8 in)
-
-### Do I need to register?
-Registration is not obligatory to participate. However, if you would like to be eligible for a poster prize, then 
-registration before November 30, 23:59 GMT is required ([registration form](https://github.com/chemcuration/chemcuration2019/issues/new/choose)). Posters tweeted after this deadline are not
-eligible for a poster prize.
+* [Christopher Southan](https://twitter.com/cdsouthan): Desperately seeking curated D-A-R-C-P: Assessing the past to predict the future. [Poster](), [Discussion](https://twitter.com/cdsouthan/status/1201775181691334656)
+* [Gitanjali Yadav](https://twitter.com/gilienv): Chemical Curation of Lantana Camara Emissions across Native and Invaded Habitats. [Poster](https://doi.org/10.5281/zenodo.3558770), [Discussion](https://twitter.com/gilienv/status/1201797911203471360)
+* [Peter Murray-Rust](https://twitter.com/petermurrayrust): CEVOpen: Can machines curate the Open phytochemistry literature. [Poster](https://doi.org/10.5281/zenodo.3558784), [Discussion](https://twitter.com/petermurrayrust/status/1201790037802831872)
+* [Charles N. Lowe](https://twitter.com/Charles98762993): Development of a Water Solubility Dataset to Establish Best Practices for Curating New Datasets for QSAR Modeling. [Poster](https://doi.org/10.23645/epacomptox.11303174.v1)
+* [Karel Berka](https://twitter.com/caco3cz): MolMeDB: Molecules on Membranes Database. [Poster](https://doi.org/10.5281/zenodo.3560328), [Discussion](https://twitter.com/caco3cz/status/1201638546945302528)
 
 
 ## References
