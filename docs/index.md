@@ -22,7 +22,7 @@ discussed online. The venue is Twitter&nbsp;[1].
 
 ## Posters
 
-* [Christopher Southan](https://twitter.com/cdsouthan): Desperately seeking curated D-A-R-C-P: Assessing the past to predict the future. [Poster](), [Discussion](https://twitter.com/cdsouthan/status/1201775181691334656)
+* [Christopher Southan](https://twitter.com/cdsouthan): Desperately seeking curated D-A-R-C-P: Assessing the past to predict the future. [Poster](https://doi.org/10.6084/m9.figshare.11295323), [Discussion](https://twitter.com/cdsouthan/status/1201775181691334656)
 * [Gitanjali Yadav](https://twitter.com/gilienv): Chemical Curation of Lantana Camara Emissions across Native and Invaded Habitats. [Poster](https://doi.org/10.5281/zenodo.3558770), [Discussion](https://twitter.com/gilienv/status/1201797911203471360)
 * [Peter Murray-Rust](https://twitter.com/petermurrayrust): CEVOpen: Can machines curate the Open phytochemistry literature. [Poster](https://doi.org/10.5281/zenodo.3558784), [Discussion](https://twitter.com/petermurrayrust/status/1201790037802831872)
 * [Charles N. Lowe](https://twitter.com/Charles98762993): Development of a Water Solubility Dataset to Establish Best Practices for Curating New Datasets for QSAR Modeling. [Poster](https://doi.org/10.23645/epacomptox.11303174.v1), [Discussion](https://twitter.com/Charles98762993/status/1201835058409197568)
