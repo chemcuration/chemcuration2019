@@ -17,8 +17,18 @@ chemistry. This includes but is not limited to:
 
 ## Date and Venue
 
-ChemCuration 2019 will take place in on Tuesday December 3 this year. Posters will be posted and
-discussed online. The venue is Twitter&nbsp;[1].
+ChemCuration 2019 took place in on Tuesday December 3 2019. The venue is Twitter&nbsp;[1].
+
+## Poster Award
+
+The poster announcement:
+
+<ul>
+With great pleasure we hand out the ChemCuration 2019 Poster Award to the poster with the title <a href="https://doi.org/10.5281/zenodo.3560692">Crystallography Open Database – data curation experiences</a> by Saulius Gražulis (presenter), Andrius Merkys, and Antanas Vaitkus.
+</ul>
+<ul>
+According to the evaluation, their poster "crystallizes" the approach that COD has taken over 16 years to deliver access to Open Crystallographic Data. The poster is the best example of sharing code, broad access to a large data collection (>400,000 structures) and their approach to BOTH automated and manual data review and curation. Moreover, the presenting author was eager to answer questions and discuss their work on Twitter.
+</ul>
 
 ## Posters
 
